@@ -1,0 +1,21 @@
+ul,
+li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.feedbackbtn {
+  margin-left: 20px;
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 20px;
+  color: darkgreen;
+  text-align: center;
+  width: 80px;
+  height: auto;
+}
+
+.feedbackbtn:focus {
+  color: white;
+  background-color: darkgreen;
+}

@@ -1,0 +1,9 @@
+.section-feedback {
+  border: 2px solid green;
+  box-shadow: 10px 5px 5px green;
+  text-align: center;
+  margin: 20px;
+  height: auto;
+  width: 600px;
+  background-color: rgb(213, 240, 173);
+}
